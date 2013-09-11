@@ -1,0 +1,329 @@
+======================================================
+Tue Sep 04 12:01:31 SAST 2012
+======================================================
+=================LOG FILE=================
+
+Hash List Structure Used
+Load Time: 0:06:129
+
+======================================================
+======================================================
+Tue Sep 04 12:01:49 SAST 2012
+======================================================
+=================LOG FILE=================
+
+Hash List Structure Used
+Load Time: 0:06:129
+Searching for a random entry in the structure.
+Landon:Permenter:Golden Peanut Company:1900 Se 15th St:Edmond:Oklahoma:OK:73013:405-340-4584:405-340-0293:landon@permenter.com:http://www.landonpermenter.com
+Searching completed in[seconds:milliseconds]: 0:4.
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 0:69.
+
+======================================================
+======================================================
+Tue Sep 04 20:00:23 SAST 2012
+======================================================
+=================LOG FILE=================
+
+Test Data/31480.csv
+Test Data/31480.csv
+Hash Table Structure Used
+Load Time: 0:01:788
+Searching for: cara.
+Cara:Hingst:Bohnen, Thomas P Esq:1717 Elm Hill Pike:Nashville:Davidson:TN:37210:615-883-8408:615-883-7736:cara@hingst.com:http://www.carahingst.com
+Cara:Quaintance:Mckay Dee Hospital Center:1 Legal Ln:Newton:Sussex:NJ:07860:973-383-7968:973-383-5902:cara@quaintance.com:http://www.caraquaintance.com
+Cara:Korenek:Durkee, Paul Esq:1135 E Van Buren St:Brownsville:Cameron:TX:78520:956-542-6996:956-542-4545:cara@korenek.com:http://www.carakorenek.com
+Cara:Letcher:Surf Hotel:1000 1 Plac:Duluth:Saint Louis:MN:55802:218-720-5300:218-720-8784:cara@letcher.com:http://www.caraletcher.com
+Cara:Irsik:Integrity Textiles Inc:1400 Park View Ave:Manhattan Beach:Los Angeles:CA:90266:310-546-6333:310-546-0801:cara@irsik.com:http://www.carairsik.com
+Cara:Regler:International Media Guides Inc:1 Smith Hl:Providence:Providence:RI:02903:401-351-4964:401-351-3211:cara@regler.com:http://www.cararegler.com
+Cara:Matsuoka:Mars Instant Printing:115 W Atlantic St:Branson:Taney:MO:65616:417-334-3154:417-334-7561:cara@matsuoka.com:http://www.caramatsuoka.com
+Cara:Loron:Norfolk Bearing & Supply Co:3595 S Teller St #-301:Denver:Jefferson:CO:80235:303-980-7339:303-980-4547:cara@loron.com:http://www.caraloron.com
+Cara:Macknair:Stagger Lees Sports Lounge:122 S Respess St:Washington:Beaufort:NC:27889:252-946-6624:252-946-1022:cara@macknair.com:http://www.caramacknair.com
+Cara:Louissaint:Alpha Tool & Supply:409 W Cheltenham Ave:Elkins Park:Montgomery:PA:19027:215-635-7186:215-635-4362:cara@louissaint.com:http://www.caralouissaint.com
+Cara:Bacayo:W C Distributors Corporation:541 Us Highway 22:Hillside:Union:NJ:07205:908-687-0719:908-687-0835:cara@bacayo.com:http://www.carabacayo.com
+Cara:Duell:Vern Lewis Welding Supply Inc:9115 Nw 105th Cir:Miami:Miami-Dade:FL:33178:305-885-3432:305-885-6844:cara@duell.com:http://www.caraduell.com
+Cara:Buhoveckey:Pargaman, William D Esq:740 S Main St:Decatur:Macon:IL:62521:217-428-0299:217-428-6701:cara@buhoveckey.com:http://www.carabuhoveckey.com
+Cara:Aina:A Better Answer:30 700th E:Springfield:Sangamon:IL:62701:217-789-0009:217-789-6391:cara@aina.com:http://www.caraaina.com
+Cara:Jaeger:Mclamb, Catherine C Esq:6650 S Narragansett Ave:Chicago:Cook:IL:60638:773-594-7066:773-594-1337:cara@jaeger.com:http://www.carajaeger.com
+Searching completed in[seconds:milliseconds]: 0:112.
+Searching for: cara.
+Cara:Hingst:Bohnen, Thomas P Esq:1717 Elm Hill Pike:Nashville:Davidson:TN:37210:615-883-8408:615-883-7736:cara@hingst.com:http://www.carahingst.com
+Cara:Quaintance:Mckay Dee Hospital Center:1 Legal Ln:Newton:Sussex:NJ:07860:973-383-7968:973-383-5902:cara@quaintance.com:http://www.caraquaintance.com
+Cara:Korenek:Durkee, Paul Esq:1135 E Van Buren St:Brownsville:Cameron:TX:78520:956-542-6996:956-542-4545:cara@korenek.com:http://www.carakorenek.com
+Cara:Letcher:Surf Hotel:1000 1 Plac:Duluth:Saint Louis:MN:55802:218-720-5300:218-720-8784:cara@letcher.com:http://www.caraletcher.com
+Cara:Irsik:Integrity Textiles Inc:1400 Park View Ave:Manhattan Beach:Los Angeles:CA:90266:310-546-6333:310-546-0801:cara@irsik.com:http://www.carairsik.com
+Cara:Regler:International Media Guides Inc:1 Smith Hl:Providence:Providence:RI:02903:401-351-4964:401-351-3211:cara@regler.com:http://www.cararegler.com
+Cara:Matsuoka:Mars Instant Printing:115 W Atlantic St:Branson:Taney:MO:65616:417-334-3154:417-334-7561:cara@matsuoka.com:http://www.caramatsuoka.com
+Cara:Loron:Norfolk Bearing & Supply Co:3595 S Teller St #-301:Denver:Jefferson:CO:80235:303-980-7339:303-980-4547:cara@loron.com:http://www.caraloron.com
+Cara:Macknair:Stagger Lees Sports Lounge:122 S Respess St:Washington:Beaufort:NC:27889:252-946-6624:252-946-1022:cara@macknair.com:http://www.caramacknair.com
+Cara:Louissaint:Alpha Tool & Supply:409 W Cheltenham Ave:Elkins Park:Montgomery:PA:19027:215-635-7186:215-635-4362:cara@louissaint.com:http://www.caralouissaint.com
+Cara:Bacayo:W C Distributors Corporation:541 Us Highway 22:Hillside:Union:NJ:07205:908-687-0719:908-687-0835:cara@bacayo.com:http://www.carabacayo.com
+Cara:Duell:Vern Lewis Welding Supply Inc:9115 Nw 105th Cir:Miami:Miami-Dade:FL:33178:305-885-3432:305-885-6844:cara@duell.com:http://www.caraduell.com
+Cara:Buhoveckey:Pargaman, William D Esq:740 S Main St:Decatur:Macon:IL:62521:217-428-0299:217-428-6701:cara@buhoveckey.com:http://www.carabuhoveckey.com
+Cara:Aina:A Better Answer:30 700th E:Springfield:Sangamon:IL:62701:217-789-0009:217-789-6391:cara@aina.com:http://www.caraaina.com
+Cara:Jaeger:Mclamb, Catherine C Esq:6650 S Narragansett Ave:Chicago:Cook:IL:60638:773-594-7066:773-594-1337:cara@jaeger.com:http://www.carajaeger.com
+Searching completed in[seconds:milliseconds]: 0:50.
+Searching for: cara.
+Cara:Hingst:Bohnen, Thomas P Esq:1717 Elm Hill Pike:Nashville:Davidson:TN:37210:615-883-8408:615-883-7736:cara@hingst.com:http://www.carahingst.com
+Cara:Quaintance:Mckay Dee Hospital Center:1 Legal Ln:Newton:Sussex:NJ:07860:973-383-7968:973-383-5902:cara@quaintance.com:http://www.caraquaintance.com
+Cara:Korenek:Durkee, Paul Esq:1135 E Van Buren St:Brownsville:Cameron:TX:78520:956-542-6996:956-542-4545:cara@korenek.com:http://www.carakorenek.com
+Cara:Letcher:Surf Hotel:1000 1 Plac:Duluth:Saint Louis:MN:55802:218-720-5300:218-720-8784:cara@letcher.com:http://www.caraletcher.com
+Cara:Irsik:Integrity Textiles Inc:1400 Park View Ave:Manhattan Beach:Los Angeles:CA:90266:310-546-6333:310-546-0801:cara@irsik.com:http://www.carairsik.com
+Cara:Regler:International Media Guides Inc:1 Smith Hl:Providence:Providence:RI:02903:401-351-4964:401-351-3211:cara@regler.com:http://www.cararegler.com
+Cara:Matsuoka:Mars Instant Printing:115 W Atlantic St:Branson:Taney:MO:65616:417-334-3154:417-334-7561:cara@matsuoka.com:http://www.caramatsuoka.com
+Cara:Loron:Norfolk Bearing & Supply Co:3595 S Teller St #-301:Denver:Jefferson:CO:80235:303-980-7339:303-980-4547:cara@loron.com:http://www.caraloron.com
+Cara:Macknair:Stagger Lees Sports Lounge:122 S Respess St:Washington:Beaufort:NC:27889:252-946-6624:252-946-1022:cara@macknair.com:http://www.caramacknair.com
+Cara:Louissaint:Alpha Tool & Supply:409 W Cheltenham Ave:Elkins Park:Montgomery:PA:19027:215-635-7186:215-635-4362:cara@louissaint.com:http://www.caralouissaint.com
+Cara:Bacayo:W C Distributors Corporation:541 Us Highway 22:Hillside:Union:NJ:07205:908-687-0719:908-687-0835:cara@bacayo.com:http://www.carabacayo.com
+Cara:Duell:Vern Lewis Welding Supply Inc:9115 Nw 105th Cir:Miami:Miami-Dade:FL:33178:305-885-3432:305-885-6844:cara@duell.com:http://www.caraduell.com
+Cara:Buhoveckey:Pargaman, William D Esq:740 S Main St:Decatur:Macon:IL:62521:217-428-0299:217-428-6701:cara@buhoveckey.com:http://www.carabuhoveckey.com
+Cara:Aina:A Better Answer:30 700th E:Springfield:Sangamon:IL:62701:217-789-0009:217-789-6391:cara@aina.com:http://www.caraaina.com
+Cara:Jaeger:Mclamb, Catherine C Esq:6650 S Narragansett Ave:Chicago:Cook:IL:60638:773-594-7066:773-594-1337:cara@jaeger.com:http://www.carajaeger.com
+Searching completed in[seconds:milliseconds]: 0:21.
+Searching for: cara.
+Cara:Hingst:Bohnen, Thomas P Esq:1717 Elm Hill Pike:Nashville:Davidson:TN:37210:615-883-8408:615-883-7736:cara@hingst.com:http://www.carahingst.com
+Cara:Quaintance:Mckay Dee Hospital Center:1 Legal Ln:Newton:Sussex:NJ:07860:973-383-7968:973-383-5902:cara@quaintance.com:http://www.caraquaintance.com
+Cara:Korenek:Durkee, Paul Esq:1135 E Van Buren St:Brownsville:Cameron:TX:78520:956-542-6996:956-542-4545:cara@korenek.com:http://www.carakorenek.com
+Cara:Letcher:Surf Hotel:1000 1 Plac:Duluth:Saint Louis:MN:55802:218-720-5300:218-720-8784:cara@letcher.com:http://www.caraletcher.com
+Cara:Irsik:Integrity Textiles Inc:1400 Park View Ave:Manhattan Beach:Los Angeles:CA:90266:310-546-6333:310-546-0801:cara@irsik.com:http://www.carairsik.com
+Cara:Regler:International Media Guides Inc:1 Smith Hl:Providence:Providence:RI:02903:401-351-4964:401-351-3211:cara@regler.com:http://www.cararegler.com
+Cara:Matsuoka:Mars Instant Printing:115 W Atlantic St:Branson:Taney:MO:65616:417-334-3154:417-334-7561:cara@matsuoka.com:http://www.caramatsuoka.com
+Cara:Loron:Norfolk Bearing & Supply Co:3595 S Teller St #-301:Denver:Jefferson:CO:80235:303-980-7339:303-980-4547:cara@loron.com:http://www.caraloron.com
+Cara:Macknair:Stagger Lees Sports Lounge:122 S Respess St:Washington:Beaufort:NC:27889:252-946-6624:252-946-1022:cara@macknair.com:http://www.caramacknair.com
+Cara:Louissaint:Alpha Tool & Supply:409 W Cheltenham Ave:Elkins Park:Montgomery:PA:19027:215-635-7186:215-635-4362:cara@louissaint.com:http://www.caralouissaint.com
+Cara:Bacayo:W C Distributors Corporation:541 Us Highway 22:Hillside:Union:NJ:07205:908-687-0719:908-687-0835:cara@bacayo.com:http://www.carabacayo.com
+Cara:Duell:Vern Lewis Welding Supply Inc:9115 Nw 105th Cir:Miami:Miami-Dade:FL:33178:305-885-3432:305-885-6844:cara@duell.com:http://www.caraduell.com
+Cara:Buhoveckey:Pargaman, William D Esq:740 S Main St:Decatur:Macon:IL:62521:217-428-0299:217-428-6701:cara@buhoveckey.com:http://www.carabuhoveckey.com
+Cara:Aina:A Better Answer:30 700th E:Springfield:Sangamon:IL:62701:217-789-0009:217-789-6391:cara@aina.com:http://www.caraaina.com
+Cara:Jaeger:Mclamb, Catherine C Esq:6650 S Narragansett Ave:Chicago:Cook:IL:60638:773-594-7066:773-594-1337:cara@jaeger.com:http://www.carajaeger.com
+Searching completed in[seconds:milliseconds]: 0:20.
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 0:9.
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 0:8.
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 0:7.
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 0:3.
+
+======================================================
+======================================================
+Tue Sep 11 11:03:58 SAST 2012
+======================================================
+=================LOG FILE=================
+
+Test Data/128000.csv
+Test Data/128000.csv
+Binary Tree Structure Used
+Load Time: 0:24:104
+Unloading current data set
+Binary Tree Structure Used
+Load Time: 0:19:510
+Unloading current data set
+Nary Tree Structure Used
+Load Time: 0:04:835
+Unloading current data set
+Nary Tree Structure Used
+Load Time: 0:03:737
+Unloading current data set
+
+======================================================
+======================================================
+Wed Sep 19 11:29:45 SAST 2012
+======================================================
+=================LOG FILE=================
+
+Nary Tree Structure Used
+Load Time: 0:14:276
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 4:676.
+Unloading current data set
+Hash List Structure Used
+Load Time: 0:04:509
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 3:68.
+Unloading current data set
+Hash Table Structure Used
+Load Time: 0:04:682
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 2:524.
+Unloading current data set
+Binary Tree Structure Used
+Load Time: 2:00:358
+Accessing each data entry in structure once.
+Searching completed in[seconds:milliseconds]: 2:442.
+Searching for: cara.
+Cara:Hingst:Bohnen, Thomas P Esq:1717 Elm Hill Pike:Nashville:Davidson:TN:37210:615-883-8408:615-883-7736:cara@hingst.com:http://www.carahingst.com"
+Cara:Stowers:Harold W Cates & Co Inc:3057 S Hacienda Blvd:Hacienda Heights:Los Angeles:CA:91745:626-333-2300:626-333-0542:cara@stowers.com:http://www.carastowers.com"
+Cara:Woodfolk:Air Technology:9416 Neils Thompson Dr #-100:Austin:Travis:TX:78758:512-823-8222:512-823-8523:cara@woodfolk.com:http://www.carawoodfolk.com"
+Cara:Mayerle:J C Geever Inc:190 Hunt Rd:Chelmsford:Middlesex:MA:01824:978-250-4071:978-250-5257:cara@mayerle.com:http://www.caramayerle.com"
+Cara:Hamra:Great Lakes Gas Trans Co:511 S Tibbs Ave:Indianapolis:Marion:IN:46241:317-481-1406:317-481-5135:cara@hamra.com:http://www.carahamra.com"
+Cara:Siebenaler:Det Norske Veritas Class:1973 Corvair Ave:Columbus:Franklin:OH:43207:614-444-6285:614-444-5118:cara@siebenaler.com:http://www.carasiebenaler.com"
+Cara:Stobbe:Red Lake County:2700 Highway 280 S #-290e:Birmingham:Jefferson:AL:35223:205-871-7401:205-871-3396:cara@stobbe.com:http://www.carastobbe.com"
+Cara:Phuma:Gerson Assocs Inc:359 Inverness Dr S #-b:Englewood:Arapahoe:CO:80112:303-792-8697:303-792-6664:cara@phuma.com:http://www.caraphuma.com"
+Cara:Lade:Wrentham Co Operative Bank:3424 Simpson Ferry Rd:Camp Hill:Cumberland:PA:17011:717-975-2974:717-975-9573:cara@lade.com:http://www.caralade.com"
+Cara:Zazozdor:Sullivan Dental Products Inc:913 S College Mall Rd:Bloomington:Monroe:IN:47401:812-332-8912:812-332-9135:cara@zazozdor.com:http://www.carazazozdor.com"
+Cara:Tedesco:Royce Assocs A Ltd Prtnrshp:4611 S 134th Pl:Seattle:King:WA:98168:206-246-5383:206-246-0866:cara@tedesco.com:http://www.caratedesco.com"
+Cara:Zgoda:Diversified Graphics Inc:3850 N Causeway Blvd #-1650:Metairie:Jefferson:LA:70002:504-836-0805:504-836-6722:cara@zgoda.com:http://www.carazgoda.com"
+Cara:Leggs:Thornton, Cynthia K Esq:1233 Main St #-3000:Wheeling:Ohio:WV:26003:304-233-8148:304-233-5804:cara@leggs.com:http://www.caraleggs.com"
+Cara:Plomma:Drainage Products Inc:3607 Fairmount St:Dallas:Dallas:TX:75219:214-522-4674:214-522-3615:cara@plomma.com:http://www.caraplomma.com"
+Cara:Caperton:Days Inn:2074 Marion Mount Gilead:Marion:Marion:OH:43302:740-389-7845:740-389-8016:cara@caperton.com:http://www.caracaperton.com"
+Cara:Joun:Tarpon Marble Inc:1701 E Broadway:Columbia:Boone:MO:65201:573-442-7351:573-442-0361:cara@joun.com:http://www.carajoun.com"
+Cara:Wergin:Scardato & Thompson:1745 Stephenson St:Marinette:Marinette:WI:54143:715-735-2284:715-735-2497:cara@wergin.com:http://www.carawergin.com"
+Cara:Vanzile:Die Cast Die & Mold Inc:13 Garden St:Mount Holly:Burlington:NJ:08060:609-265-8706:609-265-8723:cara@vanzile.com:http://www.caravanzile.com"
+Cara:Ayer:Precision Bindery:202 Old Kent Bg:Grand Haven:Ottawa:MI:49417:616-846-7957:616-846-0939:cara@ayer.com:http://www.caraayer.com"
+Cara:Lewars:Duro Sales:5542 Force Four Pky:Orlando:Orange:FL:32839:407-240-4091:407-240-5882:cara@lewars.com:http://www.caralewars.com"
+Cara:Snelgrove:Green Garden Food Products Inc:302 10th St:Augusta:Richmond:GA:30901:706-823-5797:706-823-0555:cara@snelgrove.com:http://www.carasnelgrove.com"
+Cara:Janacek:Carlson Trvl Ntwrk Gracia Trvl:770 L St #-950:Sacramento:Sacramento:CA:95814:916-441-2621:916-441-6219:cara@janacek.com:http://www.carajanacek.com"
+Cara:Maurizio:Cvetic, Lisa M Esq:560 E Main St:Newport:Orleans:VT:05855:802-334-5992:802-334-0335:cara@maurizio.com:http://www.caramaurizio.com"
+Cara:Woolley:Western Emporium:1837 Hendricks Ave:Jacksonville:Duval:FL:32207:904-399-0021:904-399-5188:cara@woolley.com:http://www.carawoolley.com"
+Cara:Schempp:Karls Ladies Boutique:4407 N Front St:Harrisburg:Dauphin:PA:17110:717-232-5920:717-232-0648:cara@schempp.com:http://www.caraschempp.com"
+Cara:Driskell:Pan American Laboratories Inc:120 E High St:Toledo:Tama:IA:52342:641-484-3560:641-484-9586:cara@driskell.com:http://www.caradriskell.com"
+Cara:Velovic:Silvi Concrete Products Inc:1290 Bayshore Hwy #-151:Burlingame:San Mateo:CA:94010:650-348-0182:650-348-0446:cara@velovic.com:http://www.caravelovic.com"
+Cara:Sidbury:Montrose Verdugo Cy C Of C:Route 73s S & Fellowship:Mount Laurel:Burlington:NJ:08054:856-273-1238:856-273-7601:cara@sidbury.com:http://www.carasidbury.com"
+Cara:Loeser:Speech Bin:5 Nw Main St:Sherwood:Washington:OR:97140:503-625-9489:503-625-1741:cara@loeser.com:http://www.caraloeser.com"
+Cara:Wallach:Brady Built Sunrooms:Union National Bank:Little Rock:Pulaski:AR:72201:501-376-2334:501-376-6772:cara@wallach.com:http://www.carawallach.com"
+Cara:Oberlander:Radio Communications Inc:6682 Sw Capitol Hwy:Portland:Multnomah:OR:97219:503-244-7172:503-244-8232:cara@oberlander.com:http://www.caraoberlander.com"
+Cara:Plasky:Fremont Die Cut Products Inc:34 Robbins Rd:Springfield:Hampden:MA:01104:413-734-5288:413-734-9811:cara@plasky.com:http://www.caraplasky.com"
+Cara:Gemmell:Ajax Roofing & Contrctng Corp:1396 W Herndon Ave:Fresno:Fresno:CA:93711:559-431-9061:559-431-8378:cara@gemmell.com:http://www.caragemmell.com"
+Cara:Boldrin:Urbandale News:600 S Main St:Laurinburg:Scotland:NC:28352:910-276-5096:910-276-1334:cara@boldrin.com:http://www.caraboldrin.com"
+Cara:Trone:Leviton Mfg Co:109 S Broadway:Portland:Sumner:TN:37148:615-325-7315:615-325-7841:cara@trone.com:http://www.caratrone.com"
+Cara:Bowling:Swartz Creek Harness Shop:3054 N 30th Ave:Phoenix:Maricopa:AZ:85017:602-269-7215:602-269-2389:cara@bowling.com:http://www.carabowling.com"
+Cara:Dubay:Bridgeport News:730 E University Dr:Phoenix:Maricopa:AZ:85034:602-528-9146:602-528-0143:cara@dubay.com:http://www.caradubay.com"
+Cara:Lickey:Steen Outdoor Advertising:2900 S 25th Ave:Maywood:Cook:IL:60153:708-865-0520:708-865-4163:cara@lickey.com:http://www.caralickey.com"
+Cara:Heugel:Roy M Benaway Attorney At Law:203 Ward Blvd Ne:Wilson:Wilson:NC:27893:252-243-1809:252-243-0681:cara@heugel.com:http://www.caraheugel.com"
+Cara:Hsiang:Eagle Inn:7403 W Boston St:Chandler:Maricopa:AZ:85226:480-961-6211:480-961-6394:cara@hsiang.com:http://www.carahsiang.com"
+Cara:Nunley:Cargill Salt:292 Madison Ave:New York:New York:NY:10017:212-949-3807:212-949-1524:cara@nunley.com:http://www.caranunley.com"
+Cara:Stitch:Geo W Pearce Companies:19 Nw 6th:Ontario:Malheur:OR:97914:541-889-4949:541-889-9627:cara@stitch.com:http://www.carastitch.com"
+Cara:Aguero:Advanced Computer Systems Inc:501 Airport Rd:Bentonville:Benton:AR:72712:479-273-5871:479-273-3362:cara@aguero.com:http://www.caraaguero.com"
+Cara:Bourns:Alioto & Alioto:2414 Kohler Memorial Dr:Sheboygan:Sheboygan:WI:53081:920-459-1481:920-459-3564:cara@bourns.com:http://www.carabourns.com"
+Cara:Liccketto:Duellman Electric Supply:1010 Market St:Saint Louis:Saint Louis City:MO:63101:314-621-1199:314-621-9425:cara@liccketto.com:http://www.caraliccketto.com"
+Cara:Syphard:David W Echols & Associates:1717 E 9th St:Cleveland:Cuyahoga:OH:44114:216-781-3683:216-781-2962:cara@syphard.com:http://www.carasyphard.com"
+Cara:Parsygnat:Dovatron International:3171 Swetzer Rd:Loomis:Placer:CA:95650:916-652-9169:916-652-2029:cara@parsygnat.com:http://www.caraparsygnat.com"
+Cara:Pesantes:Kotzian, David A Esq:100 Independence Way:Princeton:Mercer:NJ:08540:609-520-2157:609-520-9139:cara@pesantes.com:http://www.carapesantes.com"
+Cara:Bredahl:Proctor Insurance Agency:201 E Decatur St:Newton:Jasper:IL:62448:618-783-6375:618-783-9847:cara@bredahl.com:http://www.carabredahl.com"
+Cara:Nienaber:Ohsman & Sons Co Inc:3151 Airway Ave #-d2:Costa Mesa:Orange:CA:92626:949-755-6116:949-755-2987:cara@nienaber.com:http://www.caranienaber.com"
+Cara:Cabell:Steak N Shake:48 E 21st St:New York:New York:NY:10010:212-291-7836:212-291-8304:cara@cabell.com:http://www.caracabell.com"
+Cara:Alvardo:Fitzgerald, Dennis M Esq:3063 N Nellis Blvd Bldg:Las Vegas:Clark:NV:89115:702-643-5259:702-643-1701:cara@alvardo.com:http://www.caraalvardo.com"
+Cara:Evans:Haywood, Lynn Finney Esq:1 Riverfront Plz #-6:Newark:Essex:NJ:07102:973-643-0876:973-643-6022:cara@evans.com:http://www.caraevans.com"
+Cara:Bober:Waia Fm 93 3 Just Good Rock N:40 W 57th St:New York:New York:NY:10019:212-947-7524:212-947-3989:cara@bober.com:http://www.carabober.com"
+Cara:Patadia:Beecham Home Imprvmt Prod Inc:148 E Rocks Rd:Norwalk:Fairfield:CT:06851:203-847-8869:203-847-9316:cara@patadia.com:http://www.carapatadia.com"
+Cara:Zapf:Hawaiian Princess Time Share:840 N Cocoa Blvd:Cocoa:Brevard:FL:32922:321-631-7136:321-631-4093:cara@zapf.com:http://www.carazapf.com"
+Cara:Niver:V J Mini & Son:31001 Schoolcraft Rd:Livonia:Wayne:MI:48150:734-525-3736:734-525-2874:cara@niver.com:http://www.caraniver.com"
+Cara:Goldware:Clarkes Quick Print:3403 10th St:Riverside:Riverside:CA:92501:951-788-0639:951-788-2384:cara@goldware.com:http://www.caragoldware.com"
+Cara:Urmos:Dice & Lenz Pc:402 W 7th St:Austin:Travis:TX:78701:512-478-7640:512-478-6102:cara@urmos.com:http://www.caraurmos.com"
+Cara:Kolding:Union Trust Company:63 N Branford Rd #-8:Branford:New Haven:CT:06405:203-481-7572:203-481-7405:cara@kolding.com:http://www.carakolding.com"
+Cara:Yentzer:Fieldwork East Inc:250 W Pratt St:Baltimore:Baltimore City:MD:21201:410-539-9635:410-539-5685:cara@yentzer.com:http://www.carayentzer.com"
+Cara:Rogosky:Thomas J Molinaro Sc:15 Union St #-4:Lawrence:Essex:MA:01840:978-688-3241:978-688-3424:cara@rogosky.com:http://www.cararogosky.com"
+Cara:Mease:Signery:Brown:Middletown:Dauphin:PA:17057:717-944-0496:717-944-7923:cara@mease.com:http://www.caramease.com"
+Cara:Saez:Request Foods Inc:550 Cochituate Rd #-0:Framingham:Middlesex:MA:01701:508-875-3917:508-875-4188:cara@saez.com:http://www.carasaez.com"
+Cara:Clarkin:Joplin Cement Co:333 1st St:Elizabeth:Union:NJ:07206:908-353-8466:908-353-7716:cara@clarkin.com:http://www.caraclarkin.com"
+Cara:Quartucci:Codys Books:800 Mckinley Monument Dr Nw:Canton:Stark:OH:44708:330-455-9656:330-455-2609:cara@quartucci.com:http://www.caraquartucci.com"
+Cara:Sprowl:Rago & Son Inc:813 Main St:Lillington:Harnett:NC:27546:910-893-7430:910-893-9298:cara@sprowl.com:http://www.carasprowl.com"
+Cara:Lella:Azteca Milling Co:2200 Worthen Bank Buil:Little Rock:Pulaski:AR:72201:501-376-9637:501-376-1905:cara@lella.com:http://www.caralella.com"
+Cara:Shusterman:Laurel Oak Realty Realtor:17000 S Western Ave:Gardena:Los Angeles:CA:90247:310-324-7187:310-324-6439:cara@shusterman.com:http://www.carashusterman.com"
+Cara:Fitzsimmons:Franzia Winery:29 Village Lndg:Chatham:Barnstable:MA:02633:508-945-2535:508-945-4295:cara@fitzsimmons.com:http://www.carafitzsimmons.com"
+Cara:Padovano:Performance Elastomers Ltd:3607 Oak Lawn Ave:Dallas:Dallas:TX:75219:214-522-5603:214-522-3061:cara@padovano.com:http://www.carapadovano.com"
+Cara:Laliberte:Brown, William K Esq:2030 Black Horse Pike:Williamstown:Gloucester:NJ:08094:856-875-4218:856-875-0651:cara@laliberte.com:http://www.caralaliberte.com"
+Cara:Rohlman:Potter & Company Pa:1219 14th St:Cloquet:Carlton:MN:55720:218-879-3802:218-879-5807:cara@rohlman.com:http://www.cararohlman.com"
+Cara:Pana:Allen, Stacy F Esq:3300 N Ridge Rd #-160:Ellicott City:Howard:MD:21043:410-313-0750:410-313-4973:cara@pana.com:http://www.carapana.com"
+Cara:Freckleton:Accurate Corrosion Control Inc:3330 Hill Ave:Everett:Snohomish:WA:98201:425-259-7197:425-259-7998:cara@freckleton.com:http://www.carafreckleton.com"
+Cara:Wierman:Interior Office Products:118 Sierra St:El Segundo:Los Angeles:CA:90245:310-640-4531:310-640-9313:cara@wierman.com:http://www.carawierman.com"
+Cara:Sodawasser:Border Business Equip & Supl:220 S 6th St:Minneapolis:Hennepin:MN:55402:612-340-6488:612-340-8593:cara@sodawasser.com:http://www.carasodawasser.com"
+Cara:Shoupe:Ultra Machine Co Inc:10710 W Oklahoma Ave:Milwaukee:Milwaukee:WI:53227:414-541-5706:414-541-0349:cara@shoupe.com:http://www.carashoupe.com"
+Cara:Shimizu:Toledo Family Health Center:322 E Exchange St:Akron:Summit:OH:44304:330-762-1960:330-762-6831:cara@shimizu.com:http://www.carashimizu.com"
+Cara:Sobanski:Nolo Press:806 W Adams Blvd:Los Angeles:Los Angeles:CA:90007:213-749-9299:213-749-7847:cara@sobanski.com:http://www.carasobanski.com"
+Cara:Edmisten:Channel 5 Kxas Tv Nbc:400 Magazine Ave:Savannah:Chatham:GA:31401:912-238-2020:912-238-6897:cara@edmisten.com:http://www.caraedmisten.com"
+Cara:Orsi:Curtin, John Michael Esq:2125 E La Salle St #-205:Colorado Springs:El Paso:CO:80909:719-389-5013:719-389-9862:cara@orsi.com:http://www.caraorsi.com"
+Cara:Meylor:Awastex Industries Inc:700 W 58th Ave:Anchorage:Anchorage:AK:99518:907-562-1918:907-562-7083:cara@meylor.com:http://www.carameylor.com"
+Cara:Harradon:Leviton Mfg Co Inc:1260 Foster St Nw:Atlanta:Fulton:GA:30318:404-351-9211:404-351-5185:cara@harradon.com:http://www.caraharradon.com"
+Cara:Rossa:Kinkos Copies:900 Midland Financial Bldg:Des Moines:Polk:IA:50309:515-282-3097:515-282-1078:cara@rossa.com:http://www.cararossa.com"
+Cara:Hilger:Eagle River Copy Plus:200 E Carrillo St:Santa Barbara:Santa Barbara:CA:93101:805-965-3311:805-965-3077:cara@hilger.com:http://www.carahilger.com"
+Cara:Campau:Kaseguma, Rod P Esq:3121 Us Highway 22:Somerville:Somerset:NJ:08876:908-725-0561:908-725-4236:cara@campau.com:http://www.caracampau.com"
+Cara:Osika:E K Williams & Co:820 Church St:Decatur:Dekalb:GA:30030:404-377-3811:404-377-9906:cara@osika.com:http://www.caraosika.com"
+Cara:Thiboutot:Savant Precision Machine Inc:1 N Dixie Hwy:Milford:Iroquois:IL:60953:815-889-0823:815-889-7313:cara@thiboutot.com:http://www.carathiboutot.com"
+Cara:Ruvalcava:Simplex Time Recorder Co:4343 State Road 26 E:Lafayette:Tippecanoe:IN:47905:765-447-3110:765-447-6291:cara@ruvalcava.com:http://www.cararuvalcava.com"
+Cara:Grierson:Bruce, Daniel G Esq:625 Marquette Ave:Minneapolis:Hennepin:MN:55402:612-342-8197:612-342-5813:cara@grierson.com:http://www.caragrierson.com"
+Cara:Frosto:Ray Kellstom Agency Inc:3 Flat St:Cumberland:Providence:RI:02864:401-658-0492:401-658-2337:cara@frosto.com:http://www.carafrosto.com"
+Cara:Koppa:Gustafson, Richard I Esq:800 S Market St:Elizabethtown:Lancaster:PA:17022:717-367-5743:717-367-3601:cara@koppa.com:http://www.carakoppa.com"
+Cara:Gallego:Giraudo, Louis J Esq:2501 County Road 516:Old Bridge:Middlesex:NJ:08857:732-679-8302:732-679-4257:cara@gallego.com:http://www.caragallego.com"
+Cara:Goldner:Pacific Southwest Screw Co:102 S Broadway #-400:Rochester:Olmsted:MN:55904:507-288-4496:507-288-0858:cara@goldner.com:http://www.caragoldner.com"
+Cara:Vanvalkenburg:Charles Amash Importers:710 Sansome St:San Francisco:San Francisco:CA:94111:415-397-6970:415-397-7915:cara@vanvalkenburg.com:http://www.caravanvalkenburg.com"
+Cara:Cronkite:Stolls Medical Rentals & Supl:1400 Union National Bank Bldg:Little Rock:Pulaski:AR:72201:501-376-1197:501-376-6209:cara@cronkite.com:http://www.caracronkite.com"
+Cara:Noblitt:T Miller Co:Chemical Bank:Buffalo:Erie:NY:14202:716-856-3001:716-856-9745:cara@noblitt.com:http://www.caranoblitt.com"
+Cara:Ringuette:Green, Donald J Jr:1805 E Wabash St:Frankfort:Clinton:IN:46041:765-659-0152:765-659-4314:cara@ringuette.com:http://www.cararinguette.com"
+Cara:Mayrose:Bazar, Jeanette Cantu Esq:7050 Nw Grand Ave:Glendale:Maricopa:AZ:85301:623-939-1010:623-939-2037:cara@mayrose.com:http://www.caramayrose.com"
+Cara:Foell:Kentucky Woodcrafts Co Inc:37 Kessel Ct:Madison:Dane:WI:53711:608-274-9723:608-274-8868:cara@foell.com:http://www.carafoell.com"
+Cara:Lotter:Burrows, James A Esq:1920 Halethorpe Farms Rd:Halethorpe:Baltimore:MD:21227:410-944-8257:410-944-6447:cara@lotter.com:http://www.caralotter.com"
+Cara:Orillion:Lane Exploration:Grant:Pittsburgh:Allegheny:PA:15219:412-281-4712:412-281-0671:cara@orillion.com:http://www.caraorillion.com"
+Cara:Eickhorst:Desenco Inc:101 Ne 23rd St:Miami:Miami-Dade:FL:33137:305-325-4321:305-325-9078:cara@eickhorst.com:http://www.caraeickhorst.com"
+Cara:Fehribach:Robinson, Mark F Esq:2130 Highway 35:Sea Girt:Monmouth:NJ:08750:732-449-2981:732-449-3713:cara@fehribach.com:http://www.carafehribach.com"
+Cara:Lanese:Cleveland Technical Center:120 W 2nd St:Dayton:Montgomery:OH:45402:937-226-6248:937-226-3325:cara@lanese.com:http://www.caralanese.com"
+Cara:Spengler:Owyhee Avalanche:2873 Marlin Ct Nw:Grand Rapids:Kent:MI:49544:616-453-1223:616-453-5417:cara@spengler.com:http://www.caraspengler.com"
+Cara:Casimir:Krispy Kreme Doughnut Co:511 New Brunswick Ave:Fords:Middlesex:NJ:08863:732-738-2807:732-738-6079:cara@casimir.com:http://www.caracasimir.com"
+Cara:Ores:Worthington Area Chmbr Commrce:1227 N Valley Mills Dr #-235:Waco:McLennan:TX:76710:254-751-6392:254-751-0706:cara@ores.com:http://www.caraores.com"
+Cara:Archey:Take Off Systems Of America:601 Pennsylvania Ave Nw #-70:Washington:District of Columbia:DC:20004:202-393-4386:202-393-1243:cara@archey.com:http://www.caraarchey.com"
+Cara:Santore:Grand County School District:108 E 1st Ave:Glenns Ferry:Elmore:ID:83623:208-366-4643:208-366-1192:cara@santore.com:http://www.carasantore.com"
+Cara:Penson:Andrews & Kane:403 Martin St:Elizabethtown:Bladen:NC:28337:910-862-5076:910-862-2539:cara@penson.com:http://www.carapenson.com"
+Cara:Moultrie:Murray, Donna A Esq:7 Saint Paul St:Baltimore:Baltimore City:MD:21202:410-752-2786:410-752-6274:cara@moultrie.com:http://www.caramoultrie.com"
+Cara:Show:Unique Quilts Inc:60 S Market St #-500:San Jose:Santa Clara:CA:95113:408-295-4020:408-295-4092:cara@show.com:http://www.carashow.com"
+Cara:Semmler:Pearse Pearson Co Inc:760 Charcot Ave:San Jose:Santa Clara:CA:95131:408-955-5314:408-955-0559:cara@semmler.com:http://www.carasemmler.com"
+Cara:Pharis:Baja Active Wear:101 Federal St:Boston:Suffolk:MA:02110:617-345-9243:617-345-5487:cara@pharis.com:http://www.carapharis.com"
+Cara:Stankovic:Defns Contracts S Fed Crdt Un:23 Railroad Pl:Maspeth:Queens:NY:11378:718-878-1906:718-878-0208:cara@stankovic.com:http://www.carastankovic.com"
+Cara:Wishum:Mills & Defilippis Cpa:4460 Lake Forest Dr:Cincinnati:Hamilton:OH:45242:513-563-9280:513-563-7695:cara@wishum.com:http://www.carawishum.com"
+Cara:Reisher:W F Corroon:105 1st Ave Nw:Kasson:Dodge:MN:55944:507-634-7735:507-634-6543:cara@reisher.com:http://www.carareisher.com"
+Cara:Schlick:Wifm Radio Station:2637 45th St:Highland:Lake:IN:46322:219-924-5480:219-924-4969:cara@schlick.com:http://www.caraschlick.com"
+Cara:Inzer:Mcfarland, Barbara P Esq:1117 19th St N #-800:Arlington:Arlington:VA:22209:703-358-1430:703-358-3874:cara@inzer.com:http://www.carainzer.com"
+Cara:Seu:Dinks Pit Bar B Que:2745 16th St:San Francisco:San Francisco:CA:94103:415-431-3811:415-431-7314:cara@seu.com:http://www.caraseu.com"
+Cara:Formella:Eureka Bookkeeping Service:1040 Corey Blvd:Crawfordsville:Montgomery:IN:47933:765-362-6196:765-362-0627:cara@formella.com:http://www.caraformella.com"
+Cara:Paddack:Jacobs, Catherine A Esq:60 Hagerman Ave:Patchogue:Suffolk:NY:11772:631-289-0437:631-289-0931:cara@paddack.com:http://www.carapaddack.com"
+Cara:Skorupa:Vitro Security Engineering:22460 Interstate 30:Bryant:Saline:AR:72022:501-847-4724:501-847-3928:cara@skorupa.com:http://www.caraskorupa.com"
+Cara:Eustice:Jack Odonnell Law Offices Of:1315 Jamestown Rd #-101:Williamsburg:James City:VA:23185:757-229-5221:757-229-4015:cara@eustice.com:http://www.caraeustice.com"
+Cara:Currey:Hess Egan Hagerty & Lhommedieu:6948 Sierra Ct:Dublin:Alameda:CA:94568:925-828-9479:925-828-2779:cara@currey.com:http://www.caracurrey.com"
+Cara:Ansley:Lott Industries Inc:835 E Southern Ave #-1:Mesa:Maricopa:AZ:85204:480-926-5438:480-926-8022:cara@ansley.com:http://www.caraansley.com"
+Cara:Lawry:Plymouth Oil Inc:2364 Leicstr Rd:Leicester:Livingston:NY:14481:585-382-3215:585-382-2519:cara@lawry.com:http://www.caralawry.com"
+Cara:Rufenacht:Dial Realtors & Mortage Co:501 Indiana Ave:Indianapolis:Marion:IN:46202:317-630-6984:317-630-3513:cara@rufenacht.com:http://www.cararufenacht.com"
+Cara:Serr:Image Builders Inc:2150a Douglas Blvd:Roseville:Placer:CA:95661:916-781-9477:916-781-0068:cara@serr.com:http://www.caraserr.com"
+Cara:Mcnuh:Cortlandt Amusement Mach Inc:3010 W Thomas Rd:Phoenix:Maricopa:AZ:85017:602-484-9518:602-484-4013:cara@mcnuh.com:http://www.caramcnuh.com"
+Cara:Lemay:Swallens:2800 3rd St:San Francisco:San Francisco:CA:94107:415-824-2296:415-824-6595:cara@lemay.com:http://www.caralemay.com"
+Cara:Bryd:Echolab Inc:77 Church Grn:Taunton:Bristol:MA:02780:508-880-9492:508-880-7603:cara@bryd.com:http://www.carabryd.com"
+Cara:Vandergiessen:Toyota Industrial Equipment:324 E Wisconsin Ave:Milwaukee:Milwaukee:WI:53202:414-272-0572:414-272-2238:cara@vandergiessen.com:http://www.caravandergiessen.com"
+Cara:Jaeger:Mclamb, Catherine C Esq:6650 S Narragansett Ave:Chicago:Cook:IL:60638:773-594-7066:773-594-1337:cara@jaeger.com:http://www.carajaeger.com"
+Cara:Aina:A Better Answer:30 700th E:Springfield:Sangamon:IL:62701:217-789-0009:217-789-6391:cara@aina.com:http://www.caraaina.com"
+Cara:Buhoveckey:Pargaman, William D Esq:740 S Main St:Decatur:Macon:IL:62521:217-428-0299:217-428-6701:cara@buhoveckey.com:http://www.carabuhoveckey.com"
+Cara:Duell:Vern Lewis Welding Supply Inc:9115 Nw 105th Cir:Miami:Miami-Dade:FL:33178:305-885-3432:305-885-6844:cara@duell.com:http://www.caraduell.com"
+Cara:Bacayo:W C Distributors Corporation:541 Us Highway 22:Hillside:Union:NJ:07205:908-687-0719:908-687-0835:cara@bacayo.com:http://www.carabacayo.com"
+Cara:Louissaint:Alpha Tool & Supply:409 W Cheltenham Ave:Elkins Park:Montgomery:PA:19027:215-635-7186:215-635-4362:cara@louissaint.com:http://www.caralouissaint.com"
+Cara:Macknair:Stagger Lees Sports Lounge:122 S Respess St:Washington:Beaufort:NC:27889:252-946-6624:252-946-1022:cara@macknair.com:http://www.caramacknair.com"
+Cara:Loron:Norfolk Bearing & Supply Co:3595 S Teller St #-301:Denver:Jefferson:CO:80235:303-980-7339:303-980-4547:cara@loron.com:http://www.caraloron.com"
+Cara:Matsuoka:Mars Instant Printing:115 W Atlantic St:Branson:Taney:MO:65616:417-334-3154:417-334-7561:cara@matsuoka.com:http://www.caramatsuoka.com"
+Cara:Regler:International Media Guides Inc:1 Smith Hl:Providence:Providence:RI:02903:401-351-4964:401-351-3211:cara@regler.com:http://www.cararegler.com"
+Cara:Irsik:Integrity Textiles Inc:1400 Park View Ave:Manhattan Beach:Los Angeles:CA:90266:310-546-6333:310-546-0801:cara@irsik.com:http://www.carairsik.com"
+Cara:Letcher:Surf Hotel:1000 1 Plac:Duluth:Saint Louis:MN:55802:218-720-5300:218-720-8784:cara@letcher.com:http://www.caraletcher.com"
+Cara:Korenek:Durkee, Paul Esq:1135 E Van Buren St:Brownsville:Cameron:TX:78520:956-542-6996:956-542-4545:cara@korenek.com:http://www.carakorenek.com"
+Cara:Quaintance:Mckay Dee Hospital Center:1 Legal Ln:Newton:Sussex:NJ:07860:973-383-7968:973-383-5902:cara@quaintance.com:http://www.caraquaintance.com"
+Searching completed in[seconds:milliseconds]: 1:586.
+Searching for: cara.
+Cara:Hingst:Bohnen, Thomas P Esq:1717 Elm Hill Pike:Nashville:Davidson:TN:37210:615-883-8408:615-883-7736:cara@hingst.com:http://www.carahingst.com"
+Searching completed in[seconds:milliseconds]: 1:720.
+Searching for a random entry in the structure.
+Bobbie:Rasp:Johnson, Robert A Esq:347 W Broadway:Paterson:Passaic:NJ:07522:973-595-1513:973-595-1789:bobbie@rasp.com:http://www.bobbierasp.com"
+Searching completed in[seconds:milliseconds]: 1:249.
+Searching for: olol.
+Sorry, No entry with the given name existed
+Searching completed in[seconds:milliseconds]: 1:759.
+Searching for: olol.
+Sorry, No entry with the given name existed
+Searching completed in[seconds:milliseconds]: 1:809.
+
+======================================================
+======================================================
+Wed Sep 19 11:32:26 SAST 2012
+======================================================
+=================LOG FILE=================
+
+Nary Tree Structure Used
+Load Time: 0:16:152
+
+======================================================
